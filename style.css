@@ -130,3 +130,20 @@ background: transparent;
 background-color: #17B3B3;
 border-radius: 10px;
 }
+
+button.github {
+    display: flex;
+    margin: auto;
+    width: fit-content;
+    padding: 4px 10px;
+    background: #17B3B3;
+    color: #000;
+    font-weight: 600;
+    cursor: pointer;
+    z-index: 99;
+    outline: none !important;
+    border: none !important;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    border-radius: 12px;
+}
